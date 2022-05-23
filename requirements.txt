@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+numpy
+scipy
+panda3d
+panda3d-gltf
